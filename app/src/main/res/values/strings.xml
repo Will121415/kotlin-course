@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AndroidMaster</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="age">Edad</string>
+    <string name="default_age">30</string>
+    <string name="lbCalculator">Calcular</string>
+
+    <string name="result_title">Tú resultado</string>
+    <string name="resultIMC">IMC: %s</string>
+
+
+    <string name="result_title_underweight">Bajo peso</string>
+    <string name="result_description_underweight">El índice de masa corporal (IMC) es menor a 18.5, lo que indica que la persona tiene un peso inferior al recomendado para su estatura</string>
+
+    <string name="result_title_normal_weight">Peso normal</string>
+    <string name="result_description_normal_weight">El IMC se encuentra entre 18.5 y 24.9, lo que indica que la persona tiene un peso adecuado para su estatura y constitución.</string>
+
+    <string name="result_title_overweight">Sobrepeso</string>
+    <string name="result_description_overweight">El IMC se encuentra entre 25 y 29.9, lo que indica que la persona tiene un exceso de peso en relación a su estatura y constitución, lo que puede aumentar el riesgo de enfermedades crónicas.</string>
+
+    <string name="result_title_obesity_grade_1">Obesidad grado 1</string>
+    <string name="result_description_obesity_grade_1">El IMC se encuentra entre 30 y 34.9, lo que indica que la persona tiene un nivel moderado de obesidad, lo que puede aumentar el riesgo de enfermedades crónicas como la diabetes, enfermedades cardíacas y algunos tipos de cáncer.</string>
+
+    <string name="result_title_obesity_grade_2">Obesidad grado 2</string>
+    <string name="result_description_obesity_grade_2">El IMC se encuentra entre 35 y 39.9, lo que indica que la persona tiene un nivel severo de obesidad, lo que aumenta significativamente el riesgo de enfermedades crónicas y reduce la calidad de vida.</string>
+
+    <string name="result_title_obesity_grade_3">Obesidad grado 3 o mórbida</string>
+    <string name="result_description_obesity_grade_3">El IMC es igual o superior a 40, lo que indica que la persona tiene un nivel extremadamente alto de obesidad, lo que aumenta el riesgo de complicaciones graves para la salud, como enfermedades cardiovasculares, diabetes tipo 2, apnea del sueño, etc.</string>
+
+
+
+<!--   TODOAPP-->
+    <string name="todo_title">Bienvenido, Will</string>
+    <string name="todo_category">Categorias</string>
+    <string name="todo_task">Tareas</string>
+
+
+    <string name="todo_dialog_add_task">Nueva tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_add_task_button">Crear tarea</string>
+
+
+</resources>
